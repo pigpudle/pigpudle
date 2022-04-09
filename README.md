@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming, videogames, playing music, learning new things.
 - 🌱 I’m currently learning Arduino.
 - 💞️ I’m looking to collaborate on pure JavaScript / React / React Native / Node.js / TypeScript projects.
-- 📫 How to reach me: mail to sachairigunda@outlook.com.
+- 📫 How to reach me: mail to dekellatifa@yahoo.com.
 
 <!---
 pigpudle/pigpudle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
