@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pigpudle
 - 🇧🇾 I am from Belarus.
 - 👀 I’m interested in programming, videogames, playing music, learning new things.
-- 🌱 I’m currently learning C# basics.
-- 💞️ I’m looking to collaborate on pure JavaScript / React / TypeScript projects.
+- 🌱 I’m currently learning Arduino.
+- 💞️ I’m looking to collaborate on pure JavaScript / React / React Native / Node.js / TypeScript projects.
 - 📫 How to reach me: mail to sachairigunda@outlook.com.
 
 <!---
