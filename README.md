@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pigpudle
+- 👋 Hi, I’m Neli
 - 🇧🇾 I am from Belarus.
 - 👀 I’m interested in programming, videogames, playing music, learning new things.
 - 🌱 I’m currently learning Arduino.
