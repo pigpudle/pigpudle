@@ -5,7 +5,5 @@
 - 💞️ I’m looking to collaborate on pure JavaScript / React / React Native / Node.js / TypeScript projects.
 - 📫 How to reach me: mail to neliharbuzavapublic@gmail.com
 
-<!---
-pigpudle/pigpudle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ✨ Open-Source activity ✨
+I've contributed to [Stripe](https://github.com/pigpudle/pigpudle/blob/master/CONTRIBUTIONS.md#stripe-terminal-js-demo), [Objection.js](https://github.com/pigpudle/pigpudle/blob/master/CONTRIBUTIONS.md#objectionjs).
